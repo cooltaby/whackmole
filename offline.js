@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1577707271,
+	"version": 1577710184,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,7 @@
 		"images/background2000-sheet0.png",
 		"images/whackamole-sheet0.png",
 		"images/reload-sheet0.png",
+		"images/play-sheet0.png",
 		"media/whack.m4a",
 		"media/whack.ogg",
 		"icon-16.png",
